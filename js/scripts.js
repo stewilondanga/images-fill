@@ -7,8 +7,8 @@ var navigate = (function() {
   });
 })();
 
-/*MorphSVGPlugin.convertToPath("circle, rect");
-TweenLite.defaultEase = Power3.easeInOut;
+MorphSVGPlugin.convertToPath("circle, rect");
+/*TweenLite.defaultEase = Power3.easeInOut;
 var dur = 2;
 var tl = new TimelineMax({yoyo:true, repeat:-1, repeatDelay:0.5});
 

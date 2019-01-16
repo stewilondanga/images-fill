@@ -15,6 +15,8 @@ var tl = new TimelineMax({
   repeat: -1,
   repeatDelay: 0.5
 });
-/*
-tl.to(".start", dur, {morphSVG:"#end"}, 0);
-tl.from("#kid", dur, {attr:{x:0, y:0, width:800, height:800}, opacity:0}, 0);
+
+tl.to(".start", dur, {
+  morphSVG: "#end"
+}, 0);
+/*tl.from("#kid", dur, {attr:{x:0, y:0, width:800, height:800}, opacity:0}, 0);

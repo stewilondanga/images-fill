@@ -33,12 +33,11 @@ body {
   height: 1.5em;
 }
 
-/*
 #end {
   visibility: hidden;
 }
 
-#demo {
+/*#demo {
   width: auto;
   height: auto;
   max-height: 90%;

@@ -37,7 +37,7 @@ body {
   visibility: hidden;
 }
 
-/*#demo {
+#demo {
   width: auto;
   height: auto;
   max-height: 90%;
@@ -45,7 +45,7 @@ body {
   font-weight: 700;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
